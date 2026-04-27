@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👥 SteamedClams: Team Organization & Division of Labor
+# SteamedClams: Team Organization & Division of Labor
 
 <img src="https://img.shields.io/badge/TEAM-STEAMED_CLAMS-ff69b4?style=for-the-badge" alt="Team Name">
 <img src="https://img.shields.io/badge/COURSE-AAE5303-1f77b4?style=for-the-badge" alt="Course">
