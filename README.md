@@ -17,6 +17,7 @@
 1. [Project Overview](#project-overview)
 2. [Engineering Division of Labor](#engineering-division-of-labor)
 3. [Workflow & Integration](#workflow--integration)
+4. [Links](#links)
 
 ---
 
@@ -48,6 +49,16 @@ Our team follows a robust **"Upstream Dependency + Parallel Execution"** strateg
 3. **Phase 3: Unified Integration**: All independent engineering outputs were finally integrated into the presentation framework designed by **CHEN Yushan** to ensure a highly cohesive technical story for the final defense.
 
 ---
+
+<span id="links"></span>
+## ✈️ Links
+
+- **VO:** [https://github.com/YuxinYang2002/AAE5303_group_project_VO]
+- **Opensplating:** [https://github.com/wswjackie2003-hub/AAE5303_opensplating]
+- **U-net:** [https://github.com/cclinko/AAE5303_group_project_u-net]
+
+---
+
 <div align="center">
 <i>" SteamedClams ZHENBANG！"</i>
 </div>
